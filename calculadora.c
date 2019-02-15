@@ -6,7 +6,8 @@ int main(int argc, char const *argv[])
 	scanf ("%d", &num1);
 	printf("Dame otro nº\n");
 	scanf ("%d", &num2);
-	suma = num1 + num1;
+	suma = num1 + num2;
 	printf("%d + %d = %d \n", num1, num2, suma );
+	printf("UwU\n");
 	return 0;
 }
